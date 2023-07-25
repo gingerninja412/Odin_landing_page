@@ -39,3 +39,27 @@ nav ul li a{
     font-size: x-large;
     font-weight: bold;
 }
+
+.about{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+    background-color: #FAE7A5;
+    border-bottom: 4px #B6E1E7 solid;
+}
+
+.FHeader{
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.Features{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.right-content img{
+    border-radius: 200px;
+    border: 8px #B6E1E7 solid;
+}
