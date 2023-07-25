@@ -59,7 +59,37 @@ nav ul li a{
     font-size: 20px;
 }
 
+.Features li{
+    margin: 30px;
+}
+
 .right-content img{
     border-radius: 200px;
     border: 8px #B6E1E7 solid;
+}
+
+.types{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+    background-color: #F9B872;
+    border-bottom: 4px #B6E1E7 solid;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    align-items: center;
+}
+
+.card img{
+    border-radius: 50px;
+    border: 8px #B6E1E7 solid;
+}
+
+.card p{
+    text-align: center;
+    font-size: 20px;
 }
