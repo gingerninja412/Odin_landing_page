@@ -99,6 +99,7 @@ nav ul li a{
     justify-content: center;
     height: 400px;
     background-color: #FAE7A5;
+    border-bottom: 4px #B6E1E7 solid;
 }
 
 .quote h2{
