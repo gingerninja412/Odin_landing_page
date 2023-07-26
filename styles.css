@@ -135,13 +135,13 @@ nav ul li a{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #F9B872;
+    background-color: #FAE7A5;
     border-bottom: 4px #B6E1E7 solid;
 }
 
 .call form {
     padding: 50px;
-    background-color: #FAE7A5;
+    background-color: #F9B872;
     border-radius: 30px;
     text-align: center;
 }
@@ -158,4 +158,12 @@ form button{
     width: 100px;
     background-color: #B6E1E7;
     font-size: 15px;
+}
+
+footer{
+    background-color: darkorange;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
